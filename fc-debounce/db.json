@@ -1,0 +1,25 @@
+{
+    "Clients":[
+    {
+        "userID":"1",
+        "userName":"cliente1"
+    },
+    {
+        "userID":"2",
+        "userName":"cliente2"
+    },
+    {
+        "userID":"3",
+        "userName":"cliente3"
+    },
+    {
+        "userID":"4",
+        "userName":"cliente4"
+    },
+    {
+        "userID":"5",
+        "userName":"cliente5"
+    }
+
+]
+}
